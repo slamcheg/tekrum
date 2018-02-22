@@ -1,0 +1,14 @@
+{
+  "name": "tekrum/test",
+  "authors": [
+    {
+      "name": "Vladimir Bobrik",
+      "email": "slamcheg@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Application\\": "src/"
+    }
+  }
+}
